@@ -18,8 +18,8 @@ A little more about me
 class AboutMe():
   _code: List = ["python", "go", "java"]
   _style: Dict = {
-    "design: ["design by contract", "domain driven design"],
-    "architecture: ["clean architecture"],
+    "design": ["design by contract", "domain driven design"],
+    "architecture": ["clean architecture"],
     "testing": ["test driven development", "unit test"]
   }
   _learning: List = ["to better code", "rust", "datascience"]
